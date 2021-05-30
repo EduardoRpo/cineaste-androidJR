@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612113163808",
+    "project_id": "cineaste-android-master",
+    "storage_bucket": "cineaste-android-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612113163808:android:a81bd137313027b846be45",
+        "android_client_info": {
+          "package_name": "de.cineaste.android.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612113163808-co05852kpu9qt0pc8bi51ge52mi5vjbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryUlvX5O-5MOwtwprM6wJI1uK1EwgeUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612113163808-co05852kpu9qt0pc8bi51ge52mi5vjbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
